@@ -1,0 +1,22 @@
+/*
+	General Styles
+*/
+body{
+	font-family:'Open Sans', sans-serif;
+	letter-spacing:2px;
+	color:#fff;
+}
+p{
+	padding:0.5cm;
+	font-size:100%;
+	line-height:150%;
+	margin-bottom:30px;
+}
+hr{
+	border-top: 3px solid rgb(100,100,100);
+	margin:0px,100px,0px,100px;
+}
+h2{
+	font-size:60px;
+	font-family:'';
+}
